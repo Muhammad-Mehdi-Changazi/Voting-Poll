@@ -27,14 +27,15 @@ bash
 Copy
 Edit
 git clone https://github.com/Muhammad-Mehdi-Changazi/Big-O-Soft-Assessment
+
 cd Big-O-Soft-Assessment
+
 Install dependencies
 
-bash
-Copy
-Edit
 npm install
 
 Then inside the root Repo:
+
 Run
+
 npm start
