@@ -1,41 +1,45 @@
-🚀 Features
-✅ Create polls with multiple options
+#Voting Poll 🚀
 
-✅ Vote on existing polls (one vote per user)
+**Voting Poll** is a modern polling application that allows users to create polls, vote in real-time, and track results instantly. It’s built with a focus on performance, responsiveness, and secure authentication.
 
-✅ Real-time vote count updates
+---
 
-✅ Cached poll data for faster page loads
+## Features ✅
 
-✅ Pagination & lazy loading for performance optimization
+* **Create Polls**: Add polls with multiple options effortlessly.
+* **Vote on Polls**: Cast one vote per user on existing polls.
+* **Real-Time Updates**: View live vote counts instantly.
+* **Cached Data**: Poll data is cached for faster page loads.
+* **Performance Optimizations**: Pagination and lazy loading for smooth browsing.
+* **Responsive UI**: Mobile-friendly and user-friendly interface.
+* **Secure Authentication**: Powered by Supabase for safe login and user management.
 
-✅ Responsive and user-friendly interface
+---
 
-✅ Secure authentication with Supabase
+## Tech Stack 🧱
 
-🧱 Tech Stack
-Frontend: React, TypeScript, TailwindCSS
+* **Frontend**: React, TypeScript, TailwindCSS
+* **Backend**: Supabase (PostgreSQL, Auth, Realtime)
+* **Caching**: LocalStorage for faster poll access
 
-Backend: Supabase (PostgreSQL, Auth, Realtime)
+---
 
-Caching: LocalStorage for faster poll load
+## Installation 📦
 
-📦 Installation
-Clone the repo
+1. **Clone the repository**
 
-bash
-Copy
-Edit
-git clone https://github.com/Muhammad-Mehdi-Changazi/Big-O-Soft-Assessment
+2. **Install dependencies**
 
-cd Big-O-Soft-Assessment
-
-Install dependencies
-
+```bash
 npm install
+```
 
-Then inside the root Repo:
+3. **Run the app**
 
-Run
-
+```bash
 npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to access the app.
+
+---
